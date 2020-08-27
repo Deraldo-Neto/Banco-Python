@@ -1,0 +1,11 @@
+﻿Projetos
+
+Calculo Médias Simples, Exponencial(EMA)
+
+Cálculo IFR
+
+Cálculo MACD
+
+Cálculo HILO
+
+Cálculo Estocástico
